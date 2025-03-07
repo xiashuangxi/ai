@@ -22,3 +22,7 @@
     mod: Qwen
     url: https://chat.qwen.ai/
     desc: 推理模型
+-
+    mod: Manus
+    url: https://manus.im/
+    desc: Agent（智能体）
