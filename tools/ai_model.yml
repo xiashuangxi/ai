@@ -34,3 +34,7 @@
     mod: Hika
     url: https://hika.fyi/
     desc: AI搜索模型
+-
+    mod: Coze
+    url: https://www.coze.cn/home
+    desc: Agent
