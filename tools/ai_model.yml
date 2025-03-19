@@ -2,14 +2,17 @@
     mod: DeepSeek
     url: https://chat.deepseek.com/
     desc: 推理模型
+    icon: https://cdn.deepseek.com/chat/icon.png
 - 
     mod: Felo
     url: https://felo.ai/search
     desc: AI搜索模型
+    icon: https://felo.ai/icon-square.png
 -
     mod: 腾讯元宝
     url: https://yuanbao.tencent.com/chat
     desc: 推理模型/AI搜索模型
+    icon: https://cdn-bot.hunyuan.tencent.com/logo.png
 - 
     mod: Perplexity Al
     url: https://www.perplexity.ai/search
@@ -18,26 +21,32 @@
     mod: 秘塔AI搜索
     url: https://metaso.cn/
     desc: AI搜索模型
+    icon: https://metaso.cn/apple-touch-icon.png
 -
     mod: Qwen
     url: https://chat.qwen.ai/
     desc: 推理模型
+    icon: https://assets.alicdn.com/g/qwenweb/qwen-webui-fe/0.0.54/static/favicon.png
 -
     mod: Manus
     url: https://manus.im/
     desc: Agent（智能体）
+    icon: https://manus.monica.cn/icon.png?cf131ec9640e9d99
 -
     mod: 纳米AI搜索
     url: https://www.n.cn/
     desc: AI搜索模型
+    icon: https://p1.ssl.qhimg.com/t11098f6bcdb3c1c166a74ad70c.png
 -
     mod: Hika
     url: https://hika.fyi/
     desc: AI搜索模型
+    icon: https://hika.fyi/icon.png
 -
     mod: Coze
     url: https://www.coze.cn/home
     desc: Agent
+    icon: https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png
 -
     mod: 知呼直达
     url: https://zhida.zhihu.com/
