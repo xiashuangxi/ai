@@ -17,10 +17,11 @@
     mod: Perplexity Al
     url: https://www.perplexity.ai/search
     desc: AI搜索模型
+    icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/perplexity-color.png
 -
     mod: 秘塔AI搜索
     url: https://metaso.cn/
-    desc: AI搜索模型
+    desc: AI搜索模型（带知识库）
     icon: https://metaso.cn/apple-touch-icon.png
 -
     mod: Qwen
@@ -30,7 +31,7 @@
 -
     mod: Manus
     url: https://manus.im/
-    desc: Agent（智能体）
+    desc: Agent（AI代理）🍃
     icon: https://manus.monica.cn/icon.png?cf131ec9640e9d99
 -
     mod: 纳米AI搜索
@@ -45,10 +46,10 @@
 -
     mod: Coze
     url: https://www.coze.cn/home
-    desc: Agent
+    desc: Agent（AI代理）
     icon: https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png
 -
     mod: 知呼直达
     url: https://zhida.zhihu.com/
-    desc: AI搜索模型+DeepSeek R1（带知识库）
+    desc: AI搜索模型（带知识库）
     icon: https://picx.zhimg.com/v2-253edf392fe4507700601efc1b5b568f.png
